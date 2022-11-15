@@ -102,7 +102,7 @@ Keep Exploring The echo Builtin and history ... Using The Help Builtin
 * Handle the $? variable
 * Handle the $$ variable
 * Handle The Argument file like `./hsh test` Where test is a file filled with command and builtin to excute.
-### List of functions and system calls we could use
+### functions and system calls
 List of allowed functions and system calls
 
     access (man 2 access)
