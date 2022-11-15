@@ -133,28 +133,6 @@ List of allowed functions and system calls
     wait4 (man 2 wait4)
     write (man 2 write)
     _exit (man 2 _exit)
-### Custom Function (Recreation of Standard Function in C)
- * _strncpy
- * _strlen
- * _putchar
- * _atoi
- * _puts
- * _strcmp
- * _isalpha
- * array_rev
- * intlen
- * _itoa
- * _strcat
- * _strcpy
- * _strchr
- * _strncmp
- * _strdup
- * _memcpy
- * _calloc
- * _realloc
- * _getenv
- * _getline
- * _strtok
 
 For More Info About It Check The Man Page by
 ```
